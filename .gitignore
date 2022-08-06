@@ -132,4 +132,6 @@ dmypy.json
 
 
 *.mp4*
-L2_Forward/data/cifar-10-python.tar.gz
+*.tar.gz
+*.xcf
+
